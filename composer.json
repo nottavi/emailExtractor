@@ -1,0 +1,13 @@
+{
+    "name": "root/email-extractor",
+    "require": {
+        "os/php-excel": "dev-master",
+        "symfony/finder": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Nicolas Ottavi",
+            "email": "nicolas@agence-differente.fr"
+        }
+    ]
+}
